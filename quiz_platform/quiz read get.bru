@@ -1,0 +1,37 @@
+meta {
+  name: quiz read get
+  type: http
+  seq: 5
+}
+
+get {
+  url: http://127.0.0.1:8000/questions/question_create_get/
+  body: json
+  auth: inherit
+}
+
+headers {
+  Content-Type: application/json
+}
+
+body:json {
+  {
+    "text": "REST API nima?",
+    "options": [
+      {"text": "Veb-servislarni yaratish uslubi", "is_correct": true},
+      {"text": "Ma'lumotlar bazasi turi", "is_correct": false},
+      {"text": "Frontend framework", "is_correct": false},
+      {"text": "Operatsion tizim", "is_correct": false}
+    ]
+  }
+  
+  
+  
+  
+  
+  
+}
+
+settings {
+  encodeUrl: true
+}

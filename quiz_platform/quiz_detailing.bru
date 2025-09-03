@@ -1,0 +1,15 @@
+meta {
+  name: quiz_detailing
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://127.0.0.1:8000/questions/user_detail/
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}

@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "quiz_platform",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

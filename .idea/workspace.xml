@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="262f53cc-a574-44ee-abd4-f4cfd0eb186e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/quiz_platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31bJCp4jygZ1Jt6w7VE0I31m6iw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262f53cc-a574-44ee-abd4-f4cfd0eb186e" name="Changes" comment="" />
+      <created>1755786714252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755786714252</updated>
+      <workItem from="1755786715287" duration="1512000" />
+      <workItem from="1755788242338" duration="248000" />
+      <workItem from="1755788505068" duration="881000" />
+      <workItem from="1755789411581" duration="95000" />
+      <workItem from="1755789520538" duration="33000" />
+      <workItem from="1755789571497" duration="77000" />
+      <workItem from="1755789656479" duration="790000" />
+      <workItem from="1755877458882" duration="685000" />
+      <workItem from="1755878578332" duration="2832000" />
+      <workItem from="1755881431885" duration="13000" />
+      <workItem from="1755881456146" duration="3423000" />
+      <workItem from="1755934592053" duration="612000" />
+      <workItem from="1755935238786" duration="2983000" />
+      <workItem from="1755941475140" duration="3255000" />
+      <workItem from="1755944762782" duration="818000" />
+      <workItem from="1755946924715" duration="363000" />
+      <workItem from="1755949220859" duration="412000" />
+      <workItem from="1755949685166" duration="26000" />
+      <workItem from="1755949726097" duration="16000" />
+      <workItem from="1755949766591" duration="422000" />
+      <workItem from="1755950208908" duration="31000" />
+      <workItem from="1755950248531" duration="22000" />
+      <workItem from="1755950330232" duration="38000" />
+      <workItem from="1755950393794" duration="77000" />
+      <workItem from="1755950489704" duration="10439000" />
+      <workItem from="1755964086849" duration="318000" />
+      <workItem from="1756030451378" duration="1227000" />
+      <workItem from="1756113877124" duration="5731000" />
+      <workItem from="1756195470592" duration="1768000" />
+      <workItem from="1756203970763" duration="4215000" />
+      <workItem from="1756279348199" duration="2069000" />
+      <workItem from="1756296908111" duration="37000" />
+      <workItem from="1756298005222" duration="83000" />
+      <workItem from="1756298558680" duration="8000" />
+      <workItem from="1756305738332" duration="11000" />
+      <workItem from="1756305902790" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+meta {
+  name: register_deteling
+  type: http
+  seq: 7
+}
+
+get {
+  url: http://127.0.0.1:8000/questions/register_view/
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "username": "javohir2",
+    "phone": "998901234567",
+    "email": "javohir2@example.com",
+    "password": "strongpassword"
+  }
+  
+  
+  
+}
+
+settings {
+  encodeUrl: true
+}
