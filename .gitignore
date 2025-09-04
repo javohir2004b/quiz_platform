@@ -27,3 +27,4 @@ static/
 # IDE/Editor
 .idea/
 .vscode/
+.env
