@@ -2,17 +2,23 @@
 import os.path
 from pathlib import Path
 
+import os
+from datetime import timedelta
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 AUTH_USER_MODEL = "accounts.User"
 
 
 
-SECRET_KEY = 'django-insecure-8ne)zz3pq91ih!x3niyq64elyk99mskf_lhkuh_zdi&=wwa4s='
+SECRET_KEY = os.getenv("SECRET_KEY")
 
-DEBUG = True
+DEBUG = os.getenv("DEBUG")
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS").split(",")
 
 
 # Application definition
